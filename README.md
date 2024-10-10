@@ -16,3 +16,10 @@ The Expense Management System is a web application designed to help users track 
 - **Frontend**: React.js
 - **Backend**: Node.js with Express.js
 - **Database**: MongoDB
+
+![Screenshot of my project](images/Screenshot%20(127).png)
+![Screenshot of my project](images/Screenshot%20(128).png)
+![Screenshot of my project](images/Screenshot%20(129).png)
+![Screenshot of my project](images/Screenshot%20(130).png)
+![Screenshot of my project](images/Screenshot%20(131).png)
+
